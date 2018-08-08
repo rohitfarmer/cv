@@ -1,0 +1,231 @@
+% LaTeX resume using res.cls
+%\documentclass{article}
+\documentclass[10pt]{article} 
+\usepackage{url}
+\usepackage{tweaklist}
+\usepackage{etaremune}
+\usepackage[cm]{fullpage}
+\usepackage[resetlabels]{multibib}
+\usepackage[ManyBibs,TextAligned]{currvita}
+\usepackage{tabularx}
+\usepackage{calc}
+\usepackage{microtype}
+\usepackage[symbol,para,bottom]{footmisc}
+%\hyphenpenalty=100000
+\clubpenalty = 10000 
+\widowpenalty = 10000
+
+\usepackage{charter}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+
+\makeatletter
+\newcommand\footnoteref[1]{\protected@xdef\@thefnmark{\ref{#1}}\@footnotemark}
+\makeatother
+
+\newenvironment{sublist}{%
+	\begin{list}{}{%
+		\setlength{\itemsep}{0em}\setlength{\parsep}{0em}%
+		\setlength{\topsep}{0em}\setlength{\parskip}{0em}%
+	}%
+}%
+{ \end{list} }
+
+% Better for lists with more than 2 items and/or long descriptions
+\newenvironment{subbulletlist}{%
+	\begin{list}{\labelitemii}{%
+		\setlength{\topsep}{\itemsep}\setlength{\parskip}{\parsep}%
+	}%
+}%
+{ \end{list} }
+
+\setlength{\parskip}{0em}
+
+\newcites{journal}{foo}
+\newcites{conference}{foo}
+%\newcites{media}{foo}
+\bibliographystylejournal{unsrt_swami}
+%\bibliographystylemedia{unsrt_swami}
+\bibliographystyleconference{unsrt_swami}
+
+%\setlength{\labelsep}{.5em}
+
+
+% Better for lists with 1-2 items and short descriptions
+
+\begin{document}
+
+%\name{\textbf{}}
+%\address{\url{}}
+\settowidth{\cvlabelwidth}{% 
+\cvlabelfont 2009-2009% 
+}% 
+\begin{cv}{\huge \it \bfseries Matt Matlock}
+\vskip3pt
+\hrule\hrule
+\vskip3pt
+\hfill \url{matt.matlock@gmail.com}
+
+{
+\setlength{\cvlabelsep}{0mm}
+\setlength{\cvlabelwidth}{0mm}
+\begin{cvlist}{Research Interests}
+\item Predicting the pharmacokinetic properties of drug-like molecules using statistical machine learning methods
+\end{cvlist}
+}
+
+%\begin{cvlist}{Appointments}
+%\item[2011-\emph{now}] Assistant Professor \hfill Washington University\\  \hspace*{\fill} Department of Immunology and Pathology\\  \hspace*{\fill} Division of Laboratory and Genomic 
+%Medicine
+%\item[2009-2012] Visiting Scientist \hfill Broad Institute of Harvard and MIT\\  \hspace*{\fill} Chemical Biology Program
+%\item[2011-2012] Visiting Scientist \hfill Pfizer  Incorporated \\  \hspace*{\fill} Indications Discovery Unit
+%\item[2010-2011] Instructor \hfill Washington University\\  \hspace*{\fill} Department of Immunology and Pathology\\  \hspace*{\fill} Division of Laboratory and Genomic 
+%Medicine
+%\item[2009-2010] Laboratory and Genomic Medicine Resident \hfill Washington University\\  \hspace*{\fill} Department of Immunology and Pathology \\ \hspace*{\fill} Division of Laboratory and Genomic Medicine
+
+%\item[2009-2009] Post-Doctoral Fellow \hfill Washington University\\ Department of Immunology and Pathology
+%\end{cvlist}
+
+\begin{cvlist}{Education}
+\item[2015-now] Philosophy Doctorate (Ph.D.) \hfill Washington University in St. Louis \\ Computational Biology
+\item[2013-now] Medical Doctorate (M.D.)  \hfill Washington University in St. Louis
+\item[2010-2011] Master of Science (M.S.) \hfill University of Tulsa \\ Computer Science
+\item[2009-2010] Graduate Study \hfill Duke University \\ Computer Science
+\item[2005-2009] Bachelor of Science (B.S.) \hfill University of Tulsa \\ Double Major in Mathematics and Computer Science \emph{Magna Cum Laude}
+\end{cvlist}
+
+%\begin{cvlist}{Funding}
+%\item[2011-\emph{now}] Mining PubChem to Reposition Drugs \hfill Glaxo-Smith-Kline \\
+ %\hspace*{\fill} Computational Biology
+%\item[2011-\emph{now}] Inferring Targets and Pathways from Phenotypic Screens \hfill Pfizer, Inc. \\
+% \hspace*{\fill} Indications Discovery Unit
+%\item[2011-2014]  Computational Biology   \hspace*{\fill} Glaxo-Smith-Kline
+%\item[2011-2012]  Indications Discovery Unit   \hspace*{\fill} Pfizer  Incorporated
+%\item[2009-2010] Physician Scientist Training Program \hfill Washington University \\
+% \hspace*{\fill} Department of Pathology and Immunology
+%\item[2000-2009] Medical Scientist Training Program  \hfill University of California, Irvine \\
+% \hspace*{\fill}  Funded by National Institute of Health
+%\item[2005-2007] Biomedical Informatics Training Program  \hfill University of California, Irvine \\
+% \hspace*{\fill}  Funded by National Institute of Health
+%\item[2001-2004] Harvey Fellowship \hfill The Mustard Seed Foundation 
+%\item[1996-2000] Regents Scholarship \hfill   University of California Regents
+%\end{cvlist}
+
+\renewenvironment{thebibliography}[1]{
+\setlength{\topsep}{0em}
+\setlength{\labelsep}{.5em}
+\begin{etaremune}{
+\setlength{\itemsep}{0.5em}}
+}{\end{etaremune}}
+\renewcommand{\bibitem}[1]{\item}
+
+%\settowidth{\cvlabelwidth}{\cvlabelfont XXXX}% 
+\setlength{\cvlabelsep}{0mm}
+\setlength{\cvlabelwidth}{0mm}
+\renewcommand{\labelitemi}{}
+
+%\vspace{1em}
+\begin{cvlist}{Publications}
+
+\item {\begin{itemize}\item{\bf M. K. Matlock}. \emph{Machine Classification Bipolar and Major Depressive Disorder using Structural Features of The Cerebral Cortex}. Master's Thesis. University of Tulsa, 2011. \end{itemize}}
+
+\item {\bf Refereed Journal Articles}
+\nocitejournal{gomez2016exome}
+\nocitejournal{krysiak2016recurrent}
+\nocitejournal{fehniger2015recurrent}
+\nocitejournal{matlock2015proteomescout}
+\nocitejournal{swamidass2015cryptoset}
+\nocitejournal{matlock2014xenosite}
+\nocitejournal{matlock2014xenosite}
+\nocitejournal{swamidass2014combined}
+\nocitejournal{zaretzki2013xenosite}
+\nocitejournal{matlock2013sharing}
+\nocitejournal{matlock2013scaffold}
+\nocitejournal{matlock2012systematic}
+\item{\bibliographyjournal{citations} }
+%\vspace{1em}
+
+%\item {\bf Editorials and Interview}
+%\nocitemedia{}
+%\item{\bibliographymedia{citations} }
+
+\newpage
+\item {\bf   Conference Proceedings}
+\nociteconference{confSecurity}
+\nociteconference{confP450region}
+\nociteconference{confCANS}
+\nociteconference{confP450}
+\nociteconference{matlock2009effective}
+\nociteconference{matlock2007effective}
+\item{\bibliographyconference{citations} }
+
+
+%\pagebreak[2]
+%\item {\bf Patents} 
+%\item{\begin{etaremune}
+%\setlength{\topsep}{0em}\setlength{\labelsep}{.5em}
+%\item {\bf S. J. Swamidass} and Baldi, P. F. Method for rapidly and accurately searching chemical compounds. U.S. Patent Application 60/970,213, 2007. 
+%\item Baldi, P. F. and Tsai, S. Method of treatment for Mycobacterium tuberculosis. W.I P.O. Patent WO/2007/092930, 2007.\footnote{Work noted in this \emph{curriculum vitae} led to this patent.}
+%\end{etaremune}}
+%\pagebreak[2]
+%\item {\bf Book Chapter } 
+%\item{\begin{etaremune}
+%\setlength{\topsep}{0em}\setlength{\labelsep}{.5em}
+%\item {\bf Swamidass, S. J.} and Baldi, P. F. Statistical distribution of chemical fingerprints, volume 3849. Lecture Notes in Computer Science, 2006. 
+%\end{etaremune}}
+\end{cvlist}
+
+\settowidth{\cvlabelwidth}{\cvlabelfont 2009-2009}% 
+\setlength{\cvlabelsep}{1em}
+
+\pagebreak[2]
+\begin{cvlist}{Presentations}
+\item[2009] Effective tag mechanisms for evolving coordination \hfill AAMAS 2009\footnote{\label{AAMASfoot}International Conference on Autonomous Agents and Multiagent Systems} \\ \hspace*{\fill} Budapest, Hungary
+\item[2007] Effective tag mechanisms for evolving cooperation \hfill AAMAS 2007\footnoteref{AAMASfoot} \\ \hspace*{\fill} Honolulu, HI, USA
+\item[2006] Evolutionary Programming Solutions of MDPs \hfill {University of Tulsa Research Colloquium} \\ \hspace*{\fill} Tulsa, OK, USA
+\end{cvlist}
+
+\begin{cvlist}{Awards and Achievements}
+\item[2009] James B. Duke Fellowship Recipient \hfill Duke University
+\item[2009] Graduate Research Fellowship Honorable Mention \hfill National Science Foundation 
+\item[2008-2009] President: Mathematical Association of America \hfill University of Tulsa
+\item[2005-2009] Presidential Honor Roll \hfill University of Tulsa
+\item[2008] Ralph W. Veatch Outstanding Academic Achievement Award \hfill University of Tulsa
+\item[2007-2008] Treasurer: Association for Computing Machinery \hfill University of Tulsa
+\item[2007] 2nd Place, Agent Reputation and Trust Testbed Competition \hfill AAMAS 2007\footnoteref{AAMASfoot}
+\item[2006-2007] President: Association for Computing Machinery \hfill University of Tulsa
+\end{cvlist}
+
+\begin{cvlist}{Teaching}
+\item[2015] Teaching Assistant \hfill School of Medicine \\ Molecular Foundations of Medicine \hfill Washington University in Saint Louis
+\item[2011] Teaching Assistant \hfill Continuing Education \\ Applied Cryptography and Threat Analysis \hfill University of Tulsa
+\item[2006-2007] Instructor \hfill Summer Robotics Institute \\ Principles of Robotics, C Programming for Microprocessors \hfill University of Tulsa
+\end{cvlist}
+
+\begin{cvlist}{Technical Skills}
+\item[Methods] Statistical machine learning methods including neural networks, SVMs and others
+\item[Computer Languages: Proficient] Python, Java, Javascript, C, C++, PHP, SQL, Bash, \LaTeX, \{X\}HTML, CSS
+\item[Computer Languages: Familiar] Erlang, Ruby, Cucumber, C\#
+%\item[Computational Tools] SciPy, NumPy
+\item[Software] Tensorflow, Eclipse IDE, GVim, Mathematica, Matlab, Microsoft Office
+\item[Operating Systems] Linux (Debian/Ubuntu, with knowledge of system administration), Mac OS X, Windows 98/2000/XP/7
+\end{cvlist}
+
+\setlength{\parindent}{0cm}
+{\cvlistheadingfont References}
+\newline \newline
+{\bf Joshua Swamidass, M.D. Ph.D.} \hfill Assistant Professor \\ Phone: (314) 375-6747 \hfill Department of Pathology and Immunology \\ E-mail: swamidass@gmail.com \hfill Washington University School of Medicine \\ Relationship: Principal Investigator
+\newline \newline
+{\bf Kristen Naegle, Ph.D.} \hfill Assistant Professor  \\ Phone: (314) 935-7665 \hfill Department of Biomedical Engineering \\ E-mail: knaegle@seas.wustl.edu \hfill Washington University in St. Louis \\ Relationship: Principal Investigator
+\newline \newline
+{\bf Obi Griffith, Ph.D.} \hfill Assistant Director \\ Phone: (314) 747-9248 \hfill McDonnel Genome Institute \\ E-mail: ogriffit@genome.wustl.edu \hfill Washington University in St. Louis \\ Relationship: Principal Investigator
+\newline \newline
+{\bf Ruben Alvarez, Ed.D.} \hfill Assistant Professor \\ Phone: (918) 502-5105 \hfill Laureate Institute for Brain Research \\ E-mail: ralvarez@laureateinstitute.org \\ Relationship: Principal Investigator
+\newline \newline
+{\bf John Hale, Ph.D.} \hfill Professor \\ Phone: (918) 631-2745 \hfill Department of Computer Science \\ E-mail: john-hale@utulsa.edu \hfill University of Tulsa \\ Relationship: Research grant supervisor
+\newline \newline
+{\bf Sandip Sen, Ph.D.} \hfill Professor \\ Phone: (918) 631-2985 \hfill Department of Computer Science \\ E-mail: sandip-sen@utulsa.edu \hfill University of Tulsa \\ Relationship: Research and academic advisor
+\newline \newline
+
+\end{cv}
+\end{document}
