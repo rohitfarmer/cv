@@ -1,2 +1,3 @@
 # cv
-LaTex files for CV or resume building
+LaTex files for CV or resume building.
+
