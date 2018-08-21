@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.8)  21 AUG 2018 10:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.8)  21 AUG 2018 11:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -210,57 +210,57 @@ Missing character: There is no ™ in font bchr7t!
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 185.
+(Font)              <8> on input line 186.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 185.
+(Font)              <6> on input line 186.
 
 
-LaTeX Warning: Citation `Farmer2018' undefined on input line 191.
+LaTeX Warning: Citation `Farmer2018' undefined on input line 192.
 
 
-LaTeX Warning: Citation `Dhusia2018' undefined on input line 192.
+LaTeX Warning: Citation `Dhusia2018' undefined on input line 193.
 
 
-LaTeX Warning: Citation `Konda2017' undefined on input line 193.
+LaTeX Warning: Citation `Konda2017' undefined on input line 194.
 
 
-LaTeX Warning: Citation `Khanim2014' undefined on input line 194.
+LaTeX Warning: Citation `Khanim2014' undefined on input line 195.
 
 
-LaTeX Warning: Citation `Lodhi2014' undefined on input line 195.
+LaTeX Warning: Citation `Lodhi2014' undefined on input line 196.
 
 
-LaTeX Warning: Citation `Haines2013' undefined on input line 196.
+LaTeX Warning: Citation `Haines2013' undefined on input line 197.
 
 
-LaTeX Warning: Citation `Singh2013' undefined on input line 197.
+LaTeX Warning: Citation `Singh2013' undefined on input line 198.
 
 
-LaTeX Warning: Citation `Kumar2013' undefined on input line 198.
+LaTeX Warning: Citation `Kumar2013' undefined on input line 199.
 
 
-LaTeX Warning: Citation `Paital2013' undefined on input line 199.
+LaTeX Warning: Citation `Paital2013' undefined on input line 200.
 
 
-LaTeX Warning: Citation `Gautam2012' undefined on input line 200.
+LaTeX Warning: Citation `Gautam2012' undefined on input line 201.
 
 
-LaTeX Warning: Citation `Fazil2012' undefined on input line 201.
+LaTeX Warning: Citation `Fazil2012' undefined on input line 202.
 
 
-LaTeX Warning: Citation `Kumari2012' undefined on input line 202.
+LaTeX Warning: Citation `Kumari2012' undefined on input line 203.
 
 
-LaTeX Warning: Citation `Lodhi2012' undefined on input line 203.
+LaTeX Warning: Citation `Lodhi2012' undefined on input line 204.
 
 
-LaTeX Warning: Citation `Paital2011' undefined on input line 204.
+LaTeX Warning: Citation `Paital2011' undefined on input line 205.
 
 
-LaTeX Warning: Citation `Jeyakumar2011' undefined on input line 205.
+LaTeX Warning: Citation `Jeyakumar2011' undefined on input line 206.
 
 
-LaTeX Warning: Citation `Farmer2010' undefined on input line 206.
+LaTeX Warning: Citation `Farmer2010' undefined on input line 207.
 
 (./journal.bbl [3]) [4] (./nCV.aux)
 
@@ -285,7 +285,7 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (4 pages, 122421 bytes).
+Output written on nCV.pdf (4 pages, 122452 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
