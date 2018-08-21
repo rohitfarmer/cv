@@ -1,5 +1,10 @@
 \begin{thebibliography}{10}
 
+\bibitem{Farmer2018}
+\textbf{Farmer, R.}, C.M. Thomas, and P.J. Winn.
+\newblock {Structure, Function and Dynamics in Acyl Carrier Proteins}.
+\newblock {\em Under Review}, 2018.
+
 \bibitem{Dhusia2018}
 K.~Dhusia, P.K. Yadav, \textbf{Farmer, R.}, and P.W. Ramteke.
 \newblock {Inhibition of polyamine biosynthesis for toxicity control in
@@ -14,13 +19,6 @@ A.K. Konda, \textbf{Farmer, R.}, K.R. Soren, S.~P.S., and A.~Setti.
   responsive WRKY TF-DNA complex towards elucidating its role in stress
   signalling mechanisms in chickpea}.
 \newblock {\em Journal of Biomolecular Structure and Dynamics}, 2017.
-
-\bibitem{Lodhi2015}
-S.S. Lodhi, \textbf{Farmer, R.}, Y.K. Jaiswal, and G.~Wadhwa.
-\newblock {In Silico Structural, Virtual Screening and Docking Studies of Human
-  Cytochrome P450 2A7 Protein}.
-\newblock {\em Interdisciplinary Sciences: Computational Life Sciences}, 7(2),
-  2015.
 
 \bibitem{Khanim2014}
 F.~Khanim, N.~Davies, P.~Veli{\c{c}}a, R.~Hayden, J.~Ride, C.~Pararasa, M.G.
@@ -65,6 +63,21 @@ B.~Paital, S.~Kumar, \textbf{Farmer, R.}, and G.B.N. Chainy.
 \newblock {\em Interdisciplinary Sciences: Computational Life Sciences}, 5(1),
   2013.
 
+\bibitem{Gautam2012}
+B.~Gautam, G.~Singh, G.~Wadhwa, \textbf{Farmer, R.}, S.~Singh, A.K. Singh, P.A.
+  Jain, and P.K. Yadav.
+\newblock {Metabolic pathway analysis and molecular docking analysis for
+  identification of putative drug targets in \textit{Toxoplasma gondii}: novel
+  approach.}
+\newblock {\em Bioinformation}, 8(3):134--41, 2012.
+
+\bibitem{Fazil2012}
+M.H.U.T. Fazil, S.~Kumar, \textbf{Farmer, R.}, H.P. Pandey, and D.V. Singh.
+\newblock {Binding efficiencies of carbohydrate ligands with different
+  genotypes of cholera toxin B: Molecular modeling, dynamics and docking
+  simulation studies}.
+\newblock {\em Journal of Molecular Modeling}, 18(1), 2012.
+
 \bibitem{Kumari2012}
 S.~Kumari, S.~Shridhar, D.~Singh, P.~Priya, \textbf{Farmer, R.}, J.~Hundal,
   P.~Sharma, K.~Bavishi, K.~Schrick, and G.~Yadav.
@@ -80,13 +93,6 @@ S.S. Lodhi, \textbf{Farmer, R.}, A.K. Singh, M.~Wadhwa, Y.K. Jaiswal, and
   colon cancer}.
 \newblock {\em Indian Journal of Biotechnology}, 11(4), 2012.
 
-\bibitem{Fazil2012}
-M.H.U.T. Fazil, S.~Kumar, \textbf{Farmer, R.}, H.P. Pandey, and D.V. Singh.
-\newblock {Binding efficiencies of carbohydrate ligands with different
-  genotypes of cholera toxin B: Molecular modeling, dynamics and docking
-  simulation studies}.
-\newblock {\em Journal of Molecular Modeling}, 18(1), 2012.
-
 \bibitem{Paital2011}
 B.~Paital, S.~Kumar, \textbf{Farmer, R.}, N.K. Tripathy, and G.B.N. Chainy.
 \newblock {In silico prediction and characterization of 3D structure and
@@ -95,11 +101,17 @@ B.~Paital, S.~Kumar, \textbf{Farmer, R.}, N.K. Tripathy, and G.B.N. Chainy.
 \newblock {\em Interdisciplinary Sciences: Computational Life Sciences}, 3(2),
   2011.
 
+\bibitem{Jeyakumar2011}
+E.~Jeyakumar, R.~Lawrence, \textbf{Farmer, R.}, and Sahai S.
+\newblock {\textit{In vitro} and \textit{In silico} analysis of xylanase
+  produced by \textit{Bacillus licheniformis}}.
+\newblock {\em Applied Biological Research}, 13(1):17--27, 2011.
+
 \bibitem{Farmer2010}
 {\bf Farmer, R.}\footnote{Corresponding Author}, B.~Gautam, S.~Singh, P.~K.
   Yadav, and P.~A. Jain.
 \newblock {Virtual screening of AmpC/$\beta$-lactamase as target for
-  antimicrobial resistance in \textit{Pseudomonas aeruginosa}.}
+  antimicrobial resistance in \textit{Pseudomonas aeruginosa}}.
 \newblock {\em Bioinformation}, 4(7):290--4, 2010.
 
 \end{thebibliography}
