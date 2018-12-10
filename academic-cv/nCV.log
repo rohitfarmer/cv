@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  17 NOV 2018 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  5 DEC 2018 19:37
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -196,9 +196,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 67.
 Missing character: There is no â in font bchr7t!
 Missing character: There is no € in font bchr7t!
-Missing character: There is no ™ in font bchr7t!
-Missing character: There is no â in font bchr7t!
-Missing character: There is no € in font bchr7t!
 Missing character: There is no œ in font bchr7t!
 Missing character: There is no â in font bchr7t!
 Missing character: There is no € in font bchr7t!
@@ -266,12 +263,12 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  2754 strings out of 494953
- 42439 string characters out of 6180976
+ 42436 string characters out of 6180976
  127559 words of memory out of 5000000
  5941 multiletter control sequences out of 15000+600000
  28862 words of font info for 94 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 35i,7n,51p,519b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,7n,51p,536b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fo
@@ -282,7 +279,7 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (4 pages, 123524 bytes).
+Output written on nCV.pdf (4 pages, 124504 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
