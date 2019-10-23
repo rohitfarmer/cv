@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.12)  3 OCT 2019 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2019.7.12)  23 OCT 2019 16:49
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -264,7 +264,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  2807 strings out of 494945
  43665 string characters out of 6181032
- 128220 words of memory out of 5000000
+ 129220 words of memory out of 5000000
  6004 multiletter control sequences out of 15000+600000
  28862 words of font info for 94 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -279,7 +279,7 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (4 pages, 124638 bytes).
+Output written on nCV.pdf (4 pages, 124576 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
