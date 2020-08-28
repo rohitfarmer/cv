@@ -1,16 +1,17 @@
 \begin{thebibliography}{10}
 
-\bibitem{Ward2019}
-Ward~M. D., Flynn~N. R., \textbf{Farmer R.}, Pomeranz W.~C. K., Miller~G. P.,
-  and Swamidass~S. J.
-\newblock Computationally assessing the bioactivation risk of isoxazole in
-  bromodomain inhibitors.
-\newblock {\em Chemical Research in Toxicology}, In Review.
-
 \bibitem{Farmer2019}
 \textbf{Farmer R.}, Thomas~C. M., and Winn~P. J.
 \newblock Structure, function and dynamics in acyl carrier proteins.
 \newblock {\em PLOS ONE}, 14(7):1--17, 2019.
+
+\bibitem{Konda2018}
+Konda~A. K., \textbf{Farmer R.}, Soren~K. R., P.~S. S., and Setti A.
+\newblock {Structural modelling and molecular dynamics of a multi-stress
+  responsive WRKY TF-DNA complex towards elucidating its role in stress
+  signalling mechanisms in chickpea}.
+\newblock {\em Journal of Biomolecular Structure and Dynamics},
+  36(9):2279--2291, 2018.
 
 \bibitem{Dhusia2018}
 Dhusia K., Yadav~P. K., \textbf{Farmer R.}, and Ramteke~P. W.
@@ -18,14 +19,20 @@ Dhusia K., Yadav~P. K., \textbf{Farmer R.}, and Ramteke~P. W.
   \textit{Serratia marcescens} strain WW4 by targeting ornithine decarboxylase:
   A structure-based virtual screening study}.
 \newblock {\em International Journal of Computational Biology and Drug Design},
-  11(1-2), 2018.
+  11(1-2):114--134, 2018.
 
-\bibitem{Konda2017}
-Konda~A. K., \textbf{Farmer R.}, Soren~K. R., P.~S. S., and Setti A.
-\newblock {Structural modelling and molecular dynamics of a multi-stress
-  responsive WRKY TF-DNA complex towards elucidating its role in stress
-  signalling mechanisms in chickpea}.
-\newblock {\em Journal of Biomolecular Structure and Dynamics}, 2017.
+\bibitem{Lodhi2015}
+Lodhi~S. S., \textbf{Farmer R.}, Jaiswal~Y. K., and Wadhwa G.
+\newblock {In Silico Structural, Virtual Screening and Docking Studies of Human
+  Cytochrome P450 2A7 Protein}.
+\newblock {\em Interdisciplinary Sciences: Computational Life Sciences},
+  7(2):129, 2015.
+
+\bibitem{Lodhi2014}
+Lodhi~S. S., \textbf{Farmer R.}, Singh~A. K., Jaiswal~Y. K., and Wadhwa G.
+\newblock {3D structure generation, virtual screening and docking of human
+  Ras-associated binding (Rab3A) protein involved in tumourigenesis}.
+\newblock {\em Molecular Biology Reports}, 41(6):3951, 2014.
 
 \bibitem{Khanim2014}
 Khanim F., Davies N., Veli{\c{c}}a P., Hayden R., Ride J., Pararasa C.,
@@ -33,13 +40,15 @@ Khanim F., Davies N., Veli{\c{c}}a P., Hayden R., Ride J., Pararasa C.,
   E., Rigoreau L., Drayson M., and Bunce C.
 \newblock {Selective AKR1C3 inhibitors do not recapitulate the anti-leukaemic
   activities of the pan-AKR1C inhibitor medroxyprogesterone acetate}.
-\newblock {\em British Journal of Cancer}, 110(6), 2014.
+\newblock {\em British Journal of Cancer}, 110(6):1506--1516, 2014.
 
-\bibitem{Lodhi2014}
-Lodhi~S. S., \textbf{Farmer R.}, Singh~A. K., Jaiswal~Y. K., and Wadhwa G.
-\newblock {3D structure generation, virtual screening and docking of human
-  Ras-associated binding (Rab3A) protein involved in tumourigenesis}.
-\newblock {\em Molecular Biology Reports}, 41(6), 2014.
+\bibitem{Kumar2013}
+Kumar S., \textbf{Farmer R.}, Turnbull~A. P., Tripathy~N. K., and Manjasetty~B.
+  A.
+\newblock {Structural and functional conservation profiles of novel cathepsin
+  L-like proteins identified in the \textit{Drosophila melanogaster} genome}.
+\newblock {\em Journal of Biomolecular Structure and Dynamics},
+  31(12):1481--1489, 2013.
 
 \bibitem{Haines2013}
 Haines~A. S., Dong X., Song Z., \textbf{Farmer R.}, Williams C., Hothersall J.,
@@ -48,27 +57,35 @@ Haines~A. S., Dong X., Song Z., \textbf{Farmer R.}, Williams C., Hothersall J.,
   Simpson~T. J., Crosby J., Winn~P. J., Thomas~C. M., and Crump~M. P.
 \newblock {A conserved motif flags acyl carrier proteins for $\beta$-branching
   in polyketide synthesis}.
-\newblock {\em Nature Chemical Biology}, 9(11), 2013.
+\newblock {\em Nature Chemical Biology}, 9(11):685--692, 2013.
 
 \bibitem{Singh2013}
 Singh S., Sablok G., \textbf{Farmer R.}, Singh~A. K., Gautam B., and Kumar S.
 \newblock {Molecular dynamic simulation and inhibitor prediction of cysteine
   synthase structured model as a potential drug target for trichomoniasis}.
-\newblock {\em BioMed Research International}, 2013, 2013.
-
-\bibitem{Kumar2013}
-Kumar S., \textbf{Farmer R.}, Turnbull~A. P., Tripathy~N. K., and Manjasetty~B.
-  A.
-\newblock {Structural and functional conservation profiles of novel cathepsin
-  L-like proteins identified in the \textit{Drosophila melanogaster} genome}.
-\newblock {\em Journal of Biomolecular Structure and Dynamics}, 31(12), 2013.
+\newblock {\em BioMed Research International}, 2013(390920), 2013.
 
 \bibitem{Paital2013}
 Paital B., Kumar S., \textbf{Farmer R.}, and Chainy G.~B. N.
 \newblock {In silico prediction of 3D structure of Mn superoxide dismutase of
   \textit{Scylla serrata} and its binding properties with inhibitors}.
-\newblock {\em Interdisciplinary Sciences: Computational Life Sciences}, 5(1),
-  2013.
+\newblock {\em Interdisciplinary Sciences: Computational Life Sciences},
+  5(1):69, 2013.
+
+\bibitem{Kumari2012}
+Kumari S., Shridhar S., Singh D., Priya P., \textbf{Farmer R.}, Hundal J.,
+  Sharma P., Bavishi K., Schrick K., and Yadav G.
+\newblock {The role of lectins and HD-ZIP transcription factors in isoprenoid
+  based plant stress responses}.
+\newblock {\em Proceedings of the Indian National Science Academy},
+  78(4):671--691, 2012.
+
+\bibitem{Lodhi2012}
+Lodhi~S. S., \textbf{Farmer R.}, Singh~A. K., Wadhwa M., Jaiswal~Y. K., and
+  Wadhwa G.
+\newblock {Statistical analysis of differential gene expression profile for
+  colon cancer}.
+\newblock {\em Indian Journal of Biotechnology}, 11:396--403, 2012.
 
 \bibitem{Gautam2012}
 Gautam B., Singh G., Wadhwa G., \textbf{Farmer R.}, Singh S., Singh~A. K.,
@@ -76,7 +93,7 @@ Gautam B., Singh G., Wadhwa G., \textbf{Farmer R.}, Singh S., Singh~A. K.,
 \newblock {Metabolic pathway analysis and molecular docking analysis for
   identification of putative drug targets in \textit{Toxoplasma gondii}: novel
   approach.}
-\newblock {\em Bioinformation}, 8(3):134--41, 2012.
+\newblock {\em Bioinformation}, 8(3):134--141, 2012.
 
 \bibitem{Fazil2012}
 Fazil M. H.~U. T., Kumar S., \textbf{Farmer R.}, Pandey~H. P., and Singh~D. V.
@@ -85,34 +102,45 @@ Fazil M. H.~U. T., Kumar S., \textbf{Farmer R.}, Pandey~H. P., and Singh~D. V.
   simulation studies}.
 \newblock {\em Journal of Molecular Modeling}, 18(1), 2012.
 
-\bibitem{Kumari2012}
-Kumari S., Shridhar S., Singh D., Priya P., \textbf{Farmer R.}, Hundal J.,
-  Sharma P., Bavishi K., Schrick K., and Yadav G.
-\newblock {The role of lectins and HD-ZIP transcription factors in isoprenoid
-  based plant stress responses}.
-\newblock {\em Proceedings of the Indian National Science Academy}, 78(4),
-  2012.
-
-\bibitem{Lodhi2012}
-Lodhi~S. S., \textbf{Farmer R.}, Singh~A. K., Wadhwa M., Jaiswal~Y. K., and
-  Wadhwa G.
-\newblock {Statistical analysis of differential gene expression profile for
-  colon cancer}.
-\newblock {\em Indian Journal of Biotechnology}, 11(4), 2012.
-
 \bibitem{Paital2011}
 Paital B., Kumar S., \textbf{Farmer R.}, Tripathy~N. K., and Chainy G.~B. N.
 \newblock {In silico prediction and characterization of 3D structure and
   binding properties of catalase from the commercially important crab,
   \textit{Scylla serrata}}.
-\newblock {\em Interdisciplinary Sciences: Computational Life Sciences}, 3(2),
-  2011.
+\newblock {\em Interdisciplinary Sciences: Computational Life Sciences},
+  3(2):110--120, 2011.
+
+\bibitem{singh2011prediction}
+Singh S., Singh G., Singh~A. K., Gautam B., \textbf{Farmer R.}, Lodhi~S. S.,
+  and Wadhwa G.
+\newblock {Prediction and analysis of paralogous proteins in
+  \textit{Trichomonas vaginalis} genome}.
+\newblock {\em Bioinformation}, 6(1):31--34, 2011.
 
 \bibitem{Jeyakumar2011}
 Jeyakumar E., Lawrence R., \textbf{Farmer R.}, and Sahai S.
 \newblock {\textit{In vitro} and \textit{In silico} analysis of xylanase
   produced by \textit{Bacillus licheniformis}}.
 \newblock {\em Applied Biological Research}, 13(1):17--27, 2011.
+
+\bibitem{yadav2011hsv}
+Yadav~P. K., Singh R., Jain~P. A., Singh S., Gautam B., and \textbf{Farmer R.}
+\newblock {\textit{In silico} epitope prediction for glycoprotein D in human
+  herpes simplex virus-1}.
+\newblock {\em Int J Pharm Sci Rev Res}, 7(2):148--153, 2011.
+
+\bibitem{yadav2011tlr}
+Yadav~P. K., Sachan R., Tandon S., Singh S., Gautam B., \textbf{Farmer R.}, and
+  Jain~P. A.
+\newblock {\textit{In silico} study of heterodimerization of TLR2 and TLR6}.
+\newblock {\em Int J Pharm Sci Rev Res}, 7(1):113--120, 2011.
+
+\bibitem{gautam2010drug}
+Gautam B., Katara P., Singh S., and \textbf{Farmer R.}
+\newblock Drug target identification using gene expression microarray data of
+  toxoplasma gondii.
+\newblock {\em International Journal of Biometrics and Bioinformatics (IJBB)},
+  4(3):113, 2010.
 
 \bibitem{Farmer2010}
 {\bf Farmer R.}\footnote{Corresponding Author}, Gautam B., Singh S., Yadav~P.
