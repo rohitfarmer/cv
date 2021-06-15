@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex)
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex)
  \write18 enabled.
 entering extended mode
 (./nCV.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty) (./tweaklist.sty)
 (./etaremune.sty (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -26,74 +26,78 @@ LaTeX Warning: Command \@makecol  has changed.
                Check if current package is valid.
 
 ) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty) (./journal.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def)
 (./nCV.aux) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg) [1{/var/lib/texm
 f/fonts/map/pdftex/updmap/pdftex.map}] [2]
 
-LaTeX Warning: Citation `Farmer2019' undefined on input line 218.
+LaTeX Warning: Citation `Flynn2021' undefined on input line 219.
 
 
-LaTeX Warning: Citation `Konda2018' undefined on input line 219.
+LaTeX Warning: Citation `Farmer2019' undefined on input line 220.
 
 
-LaTeX Warning: Citation `Dhusia2018' undefined on input line 220.
+LaTeX Warning: Citation `Konda2018' undefined on input line 221.
 
 
-LaTeX Warning: Citation `Lodhi2015' undefined on input line 221.
+LaTeX Warning: Citation `Dhusia2018' undefined on input line 222.
 
 
-LaTeX Warning: Citation `Lodhi2014' undefined on input line 222.
+LaTeX Warning: Citation `Lodhi2015' undefined on input line 223.
 
 
-LaTeX Warning: Citation `Khanim2014' undefined on input line 223.
+LaTeX Warning: Citation `Lodhi2014' undefined on input line 224.
 
 
-LaTeX Warning: Citation `Kumar2013' undefined on input line 224.
+LaTeX Warning: Citation `Khanim2014' undefined on input line 225.
 
 
-LaTeX Warning: Citation `Haines2013' undefined on input line 225.
+LaTeX Warning: Citation `Kumar2013' undefined on input line 226.
 
 
-LaTeX Warning: Citation `Singh2013' undefined on input line 226.
+LaTeX Warning: Citation `Haines2013' undefined on input line 227.
 
 
-LaTeX Warning: Citation `Paital2013' undefined on input line 227.
+LaTeX Warning: Citation `Singh2013' undefined on input line 228.
 
 
-LaTeX Warning: Citation `Kumari2012' undefined on input line 228.
+LaTeX Warning: Citation `Paital2013' undefined on input line 229.
 
 
-LaTeX Warning: Citation `Lodhi2012' undefined on input line 229.
+LaTeX Warning: Citation `Kumari2012' undefined on input line 230.
 
 
-LaTeX Warning: Citation `Gautam2012' undefined on input line 230.
+LaTeX Warning: Citation `Lodhi2012' undefined on input line 231.
 
 
-LaTeX Warning: Citation `Fazil2012' undefined on input line 231.
+LaTeX Warning: Citation `Gautam2012' undefined on input line 232.
 
 
-LaTeX Warning: Citation `Paital2011' undefined on input line 232.
+LaTeX Warning: Citation `Fazil2012' undefined on input line 233.
 
 
-LaTeX Warning: Citation `singh2011prediction' undefined on input line 233.
+LaTeX Warning: Citation `Paital2011' undefined on input line 234.
 
 
-LaTeX Warning: Citation `Jeyakumar2011' undefined on input line 234.
+LaTeX Warning: Citation `singh2011prediction' undefined on input line 235.
 
 
-LaTeX Warning: Citation `yadav2011hsv' undefined on input line 235.
+LaTeX Warning: Citation `Jeyakumar2011' undefined on input line 236.
 
 
-LaTeX Warning: Citation `yadav2011tlr' undefined on input line 236.
+LaTeX Warning: Citation `yadav2011hsv' undefined on input line 237.
 
 
-LaTeX Warning: Citation `gautam2010drug' undefined on input line 237.
+LaTeX Warning: Citation `yadav2011tlr' undefined on input line 238.
 
 
-LaTeX Warning: Citation `Farmer2010' undefined on input line 238.
+LaTeX Warning: Citation `gautam2010drug' undefined on input line 239.
 
-(./journal.bbl [3]) [4] [5] (./nCV.aux)
+
+LaTeX Warning: Citation `Farmer2010' undefined on input line 240.
+
+(./journal.bbl [3] [4]) [5] (./nCV.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -107,6 +111,6 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (5 pages, 126160 bytes).
+Output written on nCV.pdf (5 pages, 126663 bytes).
 SyncTeX written on nCV.synctex.gz.
 Transcript written on nCV.log.

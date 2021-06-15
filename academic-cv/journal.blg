@@ -1,46 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: journal.aux
 The style file: unsrt_swami.bst
 Database file #1: citations.bib
-You've used 21 entries,
+You've used 22 entries,
             1787 wiz_defined-function locations,
-            589 strings with 9405 characters,
-and the built_in function-call counts, 5917 in all, are:
-= -- 444
-> -- 459
+            595 strings with 9686 characters,
+and the built_in function-call counts, 6164 in all, are:
+= -- 457
+> -- 488
 < -- 0
-+ -- 160
-- -- 139
-* -- 569
-:= -- 1037
-add.period$ -- 63
-call.type$ -- 21
-change.case$ -- 21
++ -- 170
+- -- 148
+* -- 593
+:= -- 1086
+add.period$ -- 66
+call.type$ -- 22
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 21
-duplicate$ -- 187
-empty$ -- 467
-format.name$ -- 139
-if$ -- 1204
+cite$ -- 22
+duplicate$ -- 195
+empty$ -- 482
+format.name$ -- 148
+if$ -- 1252
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 21
-newline$ -- 108
-num.names$ -- 21
-pop$ -- 21
+int.to.str$ -- 22
+missing$ -- 22
+newline$ -- 113
+num.names$ -- 22
+pop$ -- 22
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 64
+skip$ -- 68
 stack$ -- 0
 substring$ -- 398
-swap$ -- 21
+swap$ -- 22
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 54
-width$ -- 23
-write$ -- 233
+while$ -- 55
+width$ -- 24
+write$ -- 244
