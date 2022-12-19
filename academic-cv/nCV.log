@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2022.8.30)  4 NOV 2022 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2022.8.30)  19 DEC 2022 17:05
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -43,74 +43,83 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \c@EM@itemctr=\count89
 \c@EM@etaremunectr=\count90
 )
-(./fullpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\enitkv@toks@=\toks16
+\labelindent=\skip43
+\enit@outerparindent=\dimen103
+\enit@toks=\toks17
+\enit@inbox=\box27
+\enit@count@id=\count91
+\enitdp@description=\count92
+) (./fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip43
+\FP@margin=\skip44
 ) (./multibib.sty
 Package: multibib 2008/12/10 v1.4 Multiple bibliographies for one document.
-\mb@biblabelwidth=\count91
+\mb@biblabelwidth=\count93
 ) (./currvita.sty
 Package: currvita 1999/09/13 v0.9i Typesetting a Curriculum Vitae
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\@cvlistheading=\box27
-\cvlabelsep=\skip44
-\cvlabelskip=\skip45
-\cvlabelwidth=\skip46
-\biblabelsep=\skip47
-\bibaddtoleftmargin=\skip48
+\@cvlistheading=\box28
+\cvlabelsep=\skip45
+\cvlabelskip=\skip46
+\cvlabelwidth=\skip47
+\biblabelsep=\skip48
+\bibaddtoleftmargin=\skip49
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen103
-\ar@mcellbox=\box28
-\extrarowheight=\dimen104
-\NC@list=\toks16
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box29
+\col@sep=\dimen104
+\ar@mcellbox=\box29
+\extrarowheight=\dimen105
+\NC@list=\toks18
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box30
 )
-\TX@col@width=\dimen105
-\TX@old@table=\dimen106
-\TX@old@col=\dimen107
-\TX@target=\dimen108
-\TX@delta=\dimen109
-\TX@cols=\count92
-\TX@ftn=\toks17
+\TX@col@width=\dimen106
+\TX@old@table=\dimen107
+\TX@old@col=\dimen108
+\TX@target=\dimen109
+\TX@delta=\dimen110
+\TX@cols=\count94
+\TX@ftn=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count93
-\calc@Bcount=\count94
-\calc@Adimen=\dimen110
-\calc@Bdimen=\dimen111
-\calc@Askip=\skip51
-\calc@Bskip=\skip52
+\calc@Acount=\count95
+\calc@Bcount=\count96
+\calc@Adimen=\dimen111
+\calc@Bdimen=\dimen112
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count95
-\calc@Cskip=\skip53
+\calc@Ccount=\count97
+\calc@Cskip=\skip54
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
-\MT@toks=\toks18
-\MT@count=\count96
+\MT@toks=\toks20
+\MT@count=\count98
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen112
+\MT@outer@kern=\dimen113
 LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
-\MT@listname@count=\count97
+\MT@listname@count=\count99
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
-\MT@outer@space=\skip54
+\MT@outer@space=\skip55
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -119,18 +128,18 @@ File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
 ))
 (./footmisc.sty
 Package: footmisc 2005/03/17 v5.3d a miscellany of footnote facilities
-\FN@temptoken=\toks19
-\footnotemargin=\dimen113
+\FN@temptoken=\toks21
+\footnotemargin=\dimen114
 
 
 LaTeX Warning: Command \@makecol  has changed.
                Check if current package is valid.
 
-\FN@tempboxb=\box30
-\FN@tempboxc=\box31
-\footglue=\skip55
-\footnotebaselineskip=\dimen114
-\c@pp@next@reset=\count98
+\FN@tempboxb=\box31
+\FN@tempboxc=\box32
+\footglue=\skip56
+\footnotebaselineskip=\dimen115
+\c@pp@next@reset=\count100
 Package footmisc Info: Declaring symbol style bringhurst on input line 817.
 Package footmisc Info: Declaring symbol style chicago on input line 818.
 Package footmisc Info: Declaring symbol style wiley on input line 819.
@@ -150,23 +159,23 @@ Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa)
 (./nCV.aux)
 \openout1 = `nCV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Try loading font information for OT1+bch on input line 56.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 57.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 )
-LaTeX Info: Redefining \microtypecontext on input line 56.
+LaTeX Info: Redefining \microtypecontext on input line 57.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -181,7 +190,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 
 )
-LaTeX Info: Redefining \@biblabel on input line 63.
+LaTeX Info: Redefining \@biblabel on input line 64.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -192,82 +201,82 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 68.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 67.
+(Font)              <5> on input line 68.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 222.
+(Font)              <8> on input line 224.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 222.
+(Font)              <6> on input line 224.
 
 
-LaTeX Warning: Citation `Flynn2021' undefined on input line 236.
+LaTeX Warning: Citation `Flynn2021' undefined on input line 238.
 
 
-LaTeX Warning: Citation `Farmer2019' undefined on input line 237.
+LaTeX Warning: Citation `Farmer2019' undefined on input line 239.
 
 
-LaTeX Warning: Citation `Konda2018' undefined on input line 238.
+LaTeX Warning: Citation `Konda2018' undefined on input line 240.
 
 
-LaTeX Warning: Citation `Dhusia2018' undefined on input line 239.
+LaTeX Warning: Citation `Dhusia2018' undefined on input line 241.
 
 
-LaTeX Warning: Citation `Lodhi2015' undefined on input line 240.
+LaTeX Warning: Citation `Lodhi2015' undefined on input line 242.
 
 
-LaTeX Warning: Citation `Lodhi2014' undefined on input line 241.
+LaTeX Warning: Citation `Lodhi2014' undefined on input line 243.
 
 
-LaTeX Warning: Citation `Khanim2014' undefined on input line 242.
+LaTeX Warning: Citation `Khanim2014' undefined on input line 244.
 
 
-LaTeX Warning: Citation `Kumar2013' undefined on input line 243.
+LaTeX Warning: Citation `Kumar2013' undefined on input line 245.
 
 
-LaTeX Warning: Citation `Haines2013' undefined on input line 244.
+LaTeX Warning: Citation `Haines2013' undefined on input line 246.
 
 
-LaTeX Warning: Citation `Singh2013' undefined on input line 245.
+LaTeX Warning: Citation `Singh2013' undefined on input line 247.
 
 
-LaTeX Warning: Citation `Paital2013' undefined on input line 246.
+LaTeX Warning: Citation `Paital2013' undefined on input line 248.
 
 
-LaTeX Warning: Citation `Kumari2012' undefined on input line 247.
+LaTeX Warning: Citation `Kumari2012' undefined on input line 249.
 
 
-LaTeX Warning: Citation `Lodhi2012' undefined on input line 248.
+LaTeX Warning: Citation `Lodhi2012' undefined on input line 250.
 
 
-LaTeX Warning: Citation `Gautam2012' undefined on input line 249.
+LaTeX Warning: Citation `Gautam2012' undefined on input line 251.
 
 
-LaTeX Warning: Citation `Fazil2012' undefined on input line 250.
+LaTeX Warning: Citation `Fazil2012' undefined on input line 252.
 
 
-LaTeX Warning: Citation `Paital2011' undefined on input line 251.
+LaTeX Warning: Citation `Paital2011' undefined on input line 253.
 
 
-LaTeX Warning: Citation `singh2011prediction' undefined on input line 252.
+LaTeX Warning: Citation `singh2011prediction' undefined on input line 254.
 
 
-LaTeX Warning: Citation `Jeyakumar2011' undefined on input line 253.
+LaTeX Warning: Citation `Jeyakumar2011' undefined on input line 255.
 
 
-LaTeX Warning: Citation `yadav2011hsv' undefined on input line 254.
+LaTeX Warning: Citation `yadav2011hsv' undefined on input line 256.
 
 
-LaTeX Warning: Citation `yadav2011tlr' undefined on input line 255.
+LaTeX Warning: Citation `yadav2011tlr' undefined on input line 257.
 
 
-LaTeX Warning: Citation `gautam2010drug' undefined on input line 256.
+LaTeX Warning: Citation `gautam2010drug' undefined on input line 258.
 
 
-LaTeX Warning: Citation `Farmer2010' undefined on input line 257.
+LaTeX Warning: Citation `Farmer2010' undefined on input line 259.
 
 (./journal.bbl [4]) [5] (./nCV.aux)
 
@@ -275,13 +284,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2812 strings out of 494561
- 43851 string characters out of 6177454
- 136870 words of memory out of 5000000
- 6379 multiletter control sequences out of 15000+600000
- 28566 words of font info for 92 fonts, out of 8000000 for 9000
+ 3131 strings out of 494561
+ 49168 string characters out of 6177454
+ 144338 words of memory out of 5000000
+ 6691 multiletter control sequences out of 15000+600000
+ 28814 words of font info for 94 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,7n,54p,606b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,7n,54p,619b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fo
@@ -293,7 +302,7 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (5 pages, 135617 bytes).
+Output written on nCV.pdf (5 pages, 136300 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
