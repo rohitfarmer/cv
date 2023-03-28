@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.3.28)  28 MAR 2023 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.3.28)  28 MAR 2023 11:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -294,11 +294,11 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3295 strings out of 483183
- 53180 string characters out of 5966292
+ 3305 strings out of 483183
+ 53272 string characters out of 5966292
  320432 words of memory out of 5000000
- 18206 multiletter control sequences out of 15000+600000
- 557512 words of font info for 104 fonts, out of 8000000 for 9000
+ 18207 multiletter control sequences out of 15000+600000
+ 558304 words of font info for 110 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,7n,58p,619b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -312,7 +312,7 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (5 pages, 136527 bytes).
+Output written on nCV.pdf (5 pages, 136952 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
