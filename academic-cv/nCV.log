@@ -1,27 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.3.28)  28 MAR 2023 11:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  19 SEP 2023 16:08
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **nCV
 (./nCV.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
@@ -30,42 +30,42 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 (./etaremune.sty
 Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
  (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks14
-\XKV@tempa@toks=\toks15
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count175
+\XKV@depth=\count193
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\c@EM@itemctr=\count176
-\c@EM@etaremunectr=\count177
+\c@EM@itemctr=\count194
+\c@EM@etaremunectr=\count195
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks16
+\enitkv@toks@=\toks18
 \labelindent=\skip49
-\enit@outerparindent=\dimen135
-\enit@toks=\toks17
-\enit@inbox=\box45
-\enit@count@id=\count178
-\enitdp@description=\count179
+\enit@outerparindent=\dimen139
+\enit@toks=\toks19
+\enit@inbox=\box50
+\enit@count@id=\count196
+\enitdp@description=\count197
 ) (./fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip50
 ) (./multibib.sty
 Package: multibib 2008/12/10 v1.4 Multiple bibliographies for one document.
-\mb@biblabelwidth=\count180
+\mb@biblabelwidth=\count198
 ) (./currvita.sty
 Package: currvita 1999/09/13 v0.9i Typesetting a Curriculum Vitae
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\@cvlistheading=\box46
+\@cvlistheading=\box51
 \cvlabelsep=\skip51
 \cvlabelskip=\skip52
 \cvlabelwidth=\skip53
@@ -76,71 +76,83 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen136
-\ar@mcellbox=\box47
-\extrarowheight=\dimen137
-\NC@list=\toks18
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen140
+\ar@mcellbox=\box52
+\extrarowheight=\dimen141
+\NC@list=\toks20
 \extratabsurround=\skip56
 \backup@length=\skip57
-\ar@cellbox=\box48
+\ar@cellbox=\box53
 )
-\TX@col@width=\dimen138
-\TX@old@table=\dimen139
-\TX@old@col=\dimen140
-\TX@target=\dimen141
-\TX@delta=\dimen142
-\TX@cols=\count181
-\TX@ftn=\toks19
+\TX@col@width=\dimen142
+\TX@old@table=\dimen143
+\TX@old@col=\dimen144
+\TX@target=\dimen145
+\TX@delta=\dimen146
+\TX@cols=\count199
+\TX@ftn=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count182
-\calc@Bcount=\count183
-\calc@Adimen=\dimen143
-\calc@Bdimen=\dimen144
+\calc@Acount=\count266
+\calc@Bcount=\count267
+\calc@Adimen=\dimen147
+\calc@Bdimen=\dimen148
 \calc@Askip=\skip58
 \calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count184
+\calc@Ccount=\count268
 \calc@Cskip=\skip60
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks20
-\MT@count=\count185
-LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen145
-LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count186
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count269
+)
+\MT@toks=\toks22
+\MT@count=\count270
+\MT@tempbox=\box54
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen149
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count271
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 914.
-LaTeX Info: Redefining \lslig on input line 914.
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
 \MT@outer@space=\skip61
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
 ))
 (./footmisc.sty
 Package: footmisc 2005/03/17 v5.3d a miscellany of footnote facilities
-\FN@temptoken=\toks21
-\footnotemargin=\dimen146
+\FN@temptoken=\toks23
+\footnotemargin=\dimen150
 
 
 LaTeX Warning: Command \@makecol  has changed.
                Check if current package is valid.
 
-\FN@tempboxb=\box49
-\FN@tempboxc=\box50
+
+LaTeX Warning: Command \@footnotetext  has changed.
+               Check if current package is valid.
+
+\FN@tempboxb=\box55
+\FN@tempboxc=\box56
 \footglue=\skip62
-\footnotebaselineskip=\dimen147
-\c@pp@next@reset=\count187
+\footnotebaselineskip=\dimen151
+\c@pp@next@reset=\count272
 Package footmisc Info: Declaring symbol style bringhurst on input line 817.
 Package footmisc Info: Declaring symbol style chicago on input line 818.
 Package footmisc Info: Declaring symbol style wiley on input line 819.
@@ -150,17 +162,22 @@ Package footmisc Info: Declaring symbol style lamport* on input line 831.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 840
 .
 ) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty
-Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 )
 \@auxoutjournal=\write3
  (./journal.aux)
 \openout3 = `journal.aux'.
 
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 5
+7.
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count188
-\l__pdf_internal_box=\box51
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box57
 )
 (./nCV.aux)
 \openout1 = `nCV.aux'.
@@ -179,24 +196,22 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
 LaTeX Font Info:    ... okay on input line 57.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
 LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 5
-7.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
-File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
-)
 LaTeX Info: Redefining \microtypecontext on input line 57.
+Package microtype Info: Applying patch `item' on input line 57.
+Package microtype Info: Applying patch `toc' on input line 57.
+Package microtype Info: Applying patch `eqnum' on input line 57.
+Package microtype Info: Applying patch `footnote' on input line 57.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: Using default expansion set `alltext-nott'.
 LaTeX Info: Redefining \showhyphens on input line 57.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 
 )
@@ -294,13 +309,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3305 strings out of 483183
- 53272 string characters out of 5966292
- 320432 words of memory out of 5000000
- 18207 multiletter control sequences out of 15000+600000
- 558304 words of font info for 110 fonts, out of 8000000 for 9000
+ 4141 strings out of 480247
+ 69266 string characters out of 5896151
+ 398672 words of memory out of 5000000
+ 21873 multiletter control sequences out of 15000+600000
+ 502159 words of font info for 168 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,7n,58p,619b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,7n,69p,996b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fo
@@ -312,10 +327,10 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (5 pages, 136952 bytes).
+Output written on nCV.pdf (5 pages, 146238 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 19969 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 41985 words of extra memory for PDF output out of 42996 (max. 10000000)
 
