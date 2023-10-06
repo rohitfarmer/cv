@@ -36,7 +36,7 @@ LaTeX Warning: Command \@footnotetext  has changed.
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
 (./nCV.aux) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg)
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg) [1{/var/lib/texm
-f/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+f/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
 
 LaTeX Warning: Citation `Flynn2021' undefined on input line 238.
 
@@ -103,7 +103,7 @@ LaTeX Warning: Citation `gautam2010drug' undefined on input line 258.
 
 LaTeX Warning: Citation `Farmer2010' undefined on input line 259.
 
-(./journal.bbl [4]) [5] (./nCV.aux)
+(./journal.bbl [5]) [6] (./nCV.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -118,6 +118,6 @@ onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nCV.pdf (5 pages, 146236 bytes).
+Output written on nCV.pdf (6 pages, 146457 bytes).
 SyncTeX written on nCV.synctex.gz.
 Transcript written on nCV.log.
