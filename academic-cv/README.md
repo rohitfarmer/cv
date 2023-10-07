@@ -6,6 +6,9 @@
 LaTeX template for a long academic CV.
 
 Dependency: [texlive (linux)](https://tug.org/texlive/)  
+tlmgr install microtype
+tlmgr install enumitem
+tlmgr install collection-fontsrecommended
 
 To compile the .tex file run `make`. It will produce a .pdf file.
 
